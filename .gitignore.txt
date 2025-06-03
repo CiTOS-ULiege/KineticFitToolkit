@@ -1,0 +1,44 @@
+# Environnements virtuels
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Fichiers de configuration locaux
+.env
+*.env
+
+# Rapports de tests et de couverture
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Bases de données locales
+*.sqlite
+*.sqlite3
+*.db

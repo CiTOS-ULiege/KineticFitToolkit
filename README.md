@@ -146,12 +146,15 @@ c0 = {
 ![enter image description here](https://lh3.googleusercontent.com/d/12LBeIjikGIRQ_LtaLLz3_xtoAtZutHT5)
 
 **Funding**
+
 This research program was funded by the University of Liege, the French Community of Belgium (Concerted Research Action CO2FLUIDICS 21/25-04). Computational resources were provided by the “Consortium des Équipements de Calcul Intensif” (CÉCI), funded by the “Fonds de la Recherche Scientifique de Belgique” (F.R.S.-FNRS) under Grant No. 2.5020.11a. 
 
 **Acknowledgments**
+
 This research program was funded by the University of Liege, the French Community of Belgium (Concerted Research Action CO2FLUIDICS 21/25-04). Dr. Christophe Detrembleur (Concerted Research Action CO2FLUIDICS 21/25-04, PI) and Dr. Bruno Grignard (Concerted Research Action CO2FLUIDICS 21/25-04, Collaborator) are acknowledged for their support. The authors acknowledge the “Fonds de la Recherche Scientifique (F.R.S.-FNRS) for funding. Computational resources were provided by the “Consortium des Équipements de Calcul Intensif” (CÉCI), funded by the “Fonds de la Recherche Scientifique de Belgique” (F.R.S.-FNRS) under Grant No. 2.5020.11a. The manuscript was written through contributions of all authors. All authors have given approval to the final version of the manuscript.
 
 **Attributions**
+
 This project is based on the  [Chemical Kinetics](https://chemical-kinetics.readthedocs.io/en/latest/)  package developed by  **Florent Boudoire**. The original Chemical Kinetics package is licensed under the MIT License.
 © Copyright 2020, Florent Boudoire, Revision 70db1b3f.
 
